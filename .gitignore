@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# model weights
+*.pt
+*.pth
+checkpoints/
+models/
+runs/
+logs/
+wandb/
+
+# dataset
+data/
+dataset/
